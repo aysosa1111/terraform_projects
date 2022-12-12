@@ -1,10 +1,21 @@
 Terraform project
 
- create a resource group
-
- create a virtual machine
-
- create a storage account
+ # create resource group
+ 
+ # create virtual network
 
 
+# create subnet
 
+# create network interface
+
+# create ip configuration
+
+# create storage account
+
+# create virtual machine
+
+
+# create os_disk
+
+# configuration of os_disk
